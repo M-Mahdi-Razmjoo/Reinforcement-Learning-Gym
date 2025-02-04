@@ -1,2 +1,8 @@
-# Reinforcement-Learning-Gym
-Implementation of Reinforcement Learning (RL) algorithms for training agents in FrozenLake-v1 and Taxi-v3 environments using OpenAI Gym. The project explores value-based methods such as Q-learning and SARSA to enable optimal decision-making in discrete state-action spaces.
+# Reinforcement Learning in OpenAI Gym 
+
+This repository contains an implementation of **Reinforcement Learning (RL)** algorithms to train agents in **FrozenLake-v1** and **Taxi-v3** environments. The project explores value-based RL techniques, including **Q-learning** and **SARSA**, using OpenAI’s **Gym**.
+
+## Objectives
+- Train an RL agent on **FrozenLake-v1** and **Taxi-v3** environments.
+- Implement **Q-learning** and **SARSA** algorithms for discrete action spaces.
+- Evaluate agent performance using reward accumulation and policy convergence.
